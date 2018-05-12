@@ -1,0 +1,32 @@
+_repo: The-Adventurous-SevenTheir-Hazardous-Undertaking_22744
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stott, W. R. S. (William R. S.)
+    alias: Stott, William R. S.
+    gutenberg_agent_id: '36266'
+    url: http://www.gutenberg.org/2009/agents/36266
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marchant, Bessie
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '3845'
+    url: http://www.gutenberg.org/2009/agents/3845
+description: ''
+gutenberg_issued: '2007-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Australia -- Juvenile fiction'
+title: 'The Adventurous Seven: Their Hazardous Undertaking'
+url: http://www.gutenberg.org/ebooks/22744
